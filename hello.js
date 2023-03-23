@@ -1,1 +1,3 @@
-console.log('pap');
+const x = (name) => {
+    return name;
+}
