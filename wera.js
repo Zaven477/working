@@ -1,2 +1,2 @@
 console.log('inga')
-const x = 'nam'
+const x = 'n'
