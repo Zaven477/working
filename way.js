@@ -1,1 +1,1 @@
-console.log('my way');
+console.log('my');
