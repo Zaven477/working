@@ -1,1 +1,1 @@
-const name = 'Hello Zaveng';
+const name = 'Hello Zaven';
